@@ -633,16 +633,16 @@ public class betterGoFish{
             }
         }
         if(pHand.size() == 0){
-            System.out.println("Game over. You won!");
+            System.out.println("Game over. You won! AHHHHH YESSSSSSSSS");
         }
         if(c0Hand.size() == 0){
-            System.out.println("Game over. You lost. Computer 0 Won.");
+            System.out.println("Game over. You lost. Computer 0 Won. You must be smarter than the machine.");
         }
         if(c1Hand.size() == 0){
-            System.out.println("Game over. You lost. Computer 1 Won.");
+            System.out.println("Game over. You lost. Computer 1 Won. You're doing great sweety.");
         }
         if(c2Hand.size() == 0){
-            System.out.println("Game over. You lost. Computer 2 Won.");
+            System.out.println("Game over. You lost. Computer 2 Won. You'll get the dub next time gamer.");
         }
     }
 }
