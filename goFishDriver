@@ -16,7 +16,7 @@ public class betterGoFish{
         Card[] deck = new Card[56];
         final String[] suits = {"Hearts", "Clubs", "Spades", "Diamonds"};
         final String[] faces = {"Ace", "Jack", "Queen", "King"};
-        theGame game = new theGame();
+        gameHelper game = new gameHelper();
         Scanner input = new Scanner(System.in);
         
         String face = "";
